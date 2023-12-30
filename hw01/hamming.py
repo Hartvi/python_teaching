@@ -1,5 +1,6 @@
 
 
+
 def hamming(s1, s2):
     # TODO
     return ...
